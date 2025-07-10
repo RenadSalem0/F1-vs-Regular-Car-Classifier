@@ -1,11 +1,7 @@
 # 🏎️ Formula 1 vs Regular Car Classifier
 
-This project uses a machine learning model trained using **Teachable Machine** to classify images into:
-
-- 🏁 Formula 1 Cars  
-- 🚗 Regular Cars
-
-The model was tested using **Google Colab**, and also directly through Teachable Machine’s interface before export.
+Fast or familiar?  
+This project teaches a computer how to spot the difference between high-speed Formula 1 cars and ordinary road vehicles — using just images. Trained with Google’s Teachable Machine and tested on Google Colab, the model takes a glance and makes its guess.
 
 ---
 
@@ -46,14 +42,13 @@ After exporting the model and testing it in **Google Colab**, the following outp
 
 ## 📁 Project Files
 
-├── F1car.jpg # Sample training image - Formula 1 car
-├── Regular_car.jpg # Sample training image - Regular car
-├── Test1.png # Prediction result from Teachable Machine
-├── Colab_test.png # Prediction result from Google Colab
-├── keras_model.h5 # Trained Keras model
-├── labels.txt # Class labels
-└── README.md # Project documentation
-
+- `F1car.jpg` – Sample training image (Formula 1 car)
+- `Regular_car.jpg` – Sample training image (Regular car)
+- `Test1.png` – Output screenshot from Teachable Machine
+- `Colab_test.png` – Output screenshot from Google Colab
+- `keras_model.h5` – Trained Keras model
+- `labels.txt` – Class labels
+- `README.md` – Project documentation
 
 ---
 
