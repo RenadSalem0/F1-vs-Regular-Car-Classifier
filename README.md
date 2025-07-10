@@ -15,7 +15,7 @@ This project teaches a computer how to spot the difference between high-speed Fo
 
 ---
 
-## 🧪 Teachable Machine Test Output
+## 📤 Teachable Machine Test Output
 
 The image below shows the prediction result from **Teachable Machine** after giving it a sample image (before exporting the model):
 
@@ -23,7 +23,7 @@ The image below shows the prediction result from **Teachable Machine** after giv
 
 ---
 
-## 🧪 Google Colab Test Output
+## 📤 Google Colab Test Output
 
 After exporting the model and testing it in **Google Colab**, the following output was generated when predicting an image:
 
