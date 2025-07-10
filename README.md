@@ -54,7 +54,7 @@ After exporting the model and testing it in **Google Colab**, the following outp
 
 ## ✅ Summary
 
-This image classifier was developed as part of a machine learning task using **Teachable Machine**. It accurately distinguishes between Formula 1 and regular cars. The model was tested both on **Teachable Machine** and in **Google Colab** using an exported Keras model.
+This image classifier was developed as part of a machine learning task using **Teachable Machine**. It accurately distinguishes between Formula 1 and regular cars. The model was evaluated both directly on **Teachable Machine** and externally in **Google Colab** using an exported Keras model, confirming its ability to make accurate predictions on unseen images.
 
 
 
