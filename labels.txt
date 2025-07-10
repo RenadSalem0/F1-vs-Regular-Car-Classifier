@@ -1,0 +1,2 @@
+0 Regular car
+1 F1 car
